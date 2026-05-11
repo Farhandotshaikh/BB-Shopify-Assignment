@@ -10,7 +10,7 @@ This repository contains the Shopify assignment theme files and product CSV data
 ## Shopify Store Access
 Store URLs: 
 - Homepage - https://wp1fe8-dv.myshopify.com/
-- PDP - https://wp1fe8-dv.myshopify.com/products/led-high-tops
+- PDP - https://wp1fe8-dv.myshopify.com/products/physical-product-the-band-t-shirt
 
 ## Features Implemented
 - Homepage customization
